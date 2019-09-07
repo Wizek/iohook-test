@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "iohook": "github:Wizek/iohook#patch-1"
+  }
+}
